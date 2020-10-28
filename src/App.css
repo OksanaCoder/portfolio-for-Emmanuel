@@ -3,6 +3,7 @@
 body {
   /* font-family: 'Playfair Display', serif; */
   font-family: 'Quicksand', sans-serif;
+  scroll-behavior: smooth;
 }
 .head {
   /* background: url('http://ejosue.com/wp-content/uploads/2014/04/thumbnail-1.png'); */

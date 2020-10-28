@@ -10,7 +10,7 @@ const About = () => {
     }, [])
     return( 
         <div>
-            <Container>
+            <Container id='section2'>
                 <Row>
                     <Col >
                         <h1 style={{textAlign: 'center', paddingTop: '30px'}}>About</h1>

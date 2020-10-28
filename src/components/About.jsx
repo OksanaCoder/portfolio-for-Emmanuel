@@ -12,14 +12,14 @@ const About = () => {
         <div>
             <Container>
                 <Row>
-                    <Col  style={{padding: '30px'}}>
+                    <Col >
                         <h1 style={{textAlign: 'center', paddingTop: '30px'}}>About</h1>
                     </Col>
                 </Row>
                 <Row style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center'}}>
-                    <Col lg={6} md={6} sm={12} style={{paddingBottom: '30px', textAlign:'center'}}><img className='borderPicture' style={{borderRadius: '10px', width: '200px', border:'5px solid #fff'}} src='ema.jpeg'/></Col>
+                    <Col lg={6} md={6} sm={12} style={{paddingBottom: '30px', textAlign:'center'}}><img className='borderPicture' style={{borderRadius: '10px', width:'50%', border:'5px solid #fff'}} src='ema.jpeg'/></Col>
                 
-                    <Col  data-aos="fade-left" data-aos-duration="1000" lg={6} md={6} sm={12} style={{ position:'relative', textAlign: 'left', padding: '25px', background: '#131F55', color: '#fff', borderRadius: '10px'}}>
+                    <Col lg={6} md={6} sm={12}  style={{ position:'relative', textAlign: 'left', padding: '25px', background: '#131F55', color: '#fff', borderRadius: '10px'}}>
                     <h4>Hi. I'm Emmanuel Adedeji, Test Analyst and Web Developer professional. Nice to meet you.</h4>
                     <h6>Never stop learning" is my mantra and I've proved it even to myself taking every opportunity that can lead me to learn something more. My excellent understanding of Software Development Lifecycle and the role of QA, will boost your projects, and thanks to my organizational and intercommunication skills I will definetly be a valuable team player.</h6>
                     <a href='https://drive.google.com/file/d/1HCskULPxZXsJ5Ipy1NfYn2KVBguOAYXZ/view?usp=sharing'>

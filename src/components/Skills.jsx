@@ -37,11 +37,11 @@ const Skills = () => {
                             <Col><img data-aos-easing='ease-in-shine' data-aos='zoom-in' data-aos-duration="3000" src='java.png' /></Col>
         
                         </Row>
+                        <div className='verticalLine'>
 
+</div>
                        <h5>Test Tools:</h5>
-                       <div className='verticalLine'>
-
-                       </div>
+                       
 
                        <Row className='img-skills'>
 
